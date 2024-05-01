@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-30T21:15:04Z" name="Default suite" finished-at="2024-04-30T21:15:17Z" duration-ms="12994">
+    <groups>
+    </groups>
+    <test started-at="2024-04-30T21:15:04Z" name="Default test" finished-at="2024-04-30T21:15:17Z" duration-ms="12994">
+      <class name="Pages.TestSample">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:Pages.TestSample@63f259c3]" started-at="2024-04-30T21:15:04Z" name="loginTest" data-provider="Credentials" finished-at="2024-04-30T21:15:17Z" duration-ms="12446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[m.tseleng@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[molemo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- Pages.TestSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
